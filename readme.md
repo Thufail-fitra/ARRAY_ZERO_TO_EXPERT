@@ -145,11 +145,4 @@ Masih kurang? Cek kitab suci programmer ini:
 
 
 
-```
 
-### Tips Tambahan untuk GitHub Kamu:
-
-1.  **Preview:** Di GitHub, file ini akan otomatis merender tabel, link, dan kode dengan warna yang cantik.
-2.  **Link Daftar Isi:** Di bagian "Daftar Isi", ganti `NAMA-REPO-KAMU` dengan nama repository yang kamu buat di GitHub nanti (atau hapus saja bagian linknya jika belum ada).
-3.  **Tampilan:** Saya menambahkan "Badges" di bagian paling atas (gambar kotak warna-warni). Itu standar di GitHub agar repo terlihat profesional.
-```
