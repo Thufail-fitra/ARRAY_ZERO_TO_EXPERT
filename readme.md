@@ -139,11 +139,11 @@ Masih kurang? Cek kitab suci programmer ini:
 
 -----
 
-\<center\>
 
-Code with ❤️ by **Fitra Ajax**
 
-\</center\>
+                                        Code with ❤️ by **Fitra Ajax**
+
+
 
 ```
 
