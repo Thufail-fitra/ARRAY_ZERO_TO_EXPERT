@@ -1,8 +1,3 @@
-Tentu, ini adalah versi **README.md** yang sudah saya rapikan dan format ulang agar terlihat profesional di GitHub. Saya menambahkan beberapa elemen seperti *Badges*, *Syntax Highlighting*, dan struktur yang rapi agar repo kamu terlihat "mahal" dan ramah pemula.
-
-Kamu tinggal salin kode di bawah ini, lalu paste ke file `README.md` di repository GitHub kamu.
-
-````markdown
 # 🚀 Belajar Java: Array Zero to Expert
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
