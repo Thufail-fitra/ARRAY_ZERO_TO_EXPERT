@@ -17,7 +17,9 @@ java -version
 javac -version
 
 Kalau muncul angka versinya, aman. Kalau muncul "command not found", berarti kamu harus install dulu.
-2. Install JDK Terbaru (Oracle)
+
+
+### 2. Install JDK Terbaru (Oracle)
 Download langsung dari sumber resminya biar aman dan stabil:
 🔗 Download Oracle JDK Terbaru di sini
 Pilih yang sesuai OS kamu (Windows/macOS/Linux), download installer-nya, terus install tinggal Next > Next > Finish.
@@ -34,7 +36,9 @@ Java itu bahasa yang harus di-compile (diterjemahkan) dulu baru bisa jalan.
    java RakSepatu
 
    (Ingat: Pas run jangan pakai akhiran .java)
-🧠 Bedah Materi: Array Level 1 & 2
+
+
+## 🧠 Bedah Materi: Array Level 1 & 2
 Buat yang masih bingung, "Array itu makhluk apa sih?", nih penjelasannya simpelnya:
 Level 1: Konsep Dasar (Wadah)
 Bayangkan kamu punya Lemari Loker.
@@ -49,32 +53,39 @@ Kalau kamu mau cek isi 100 loker, capek dong kalau dibuka satu-satu secara manua
  * Di sini kita pakai Looping (For Loop).
  * Kita suruh komputer: "Tolong cek laci dari nomor 0 sampai laci terakhir, terus sebutin isinya satu-satu."
  * Hasilnya? Codingan jadi pendek, rapi, dan efisien.
-⚠️ PERINGATAN KERAS (Wajib Baca!)
+
+## ⚠️ PERINGATAN KERAS (Wajib Baca!)
 Java itu Case Sensitive (Huruf besar/kecil itu beda arti).
  * String (Benar) vs string (Error)
  * RakSepatu (Nama File) vs raksepatu (Error saat dipanggil)
  * Nama File HARUS SAMA PERSIS dengan nama public class di dalam kodingan.
 > Tips: Teliti lihat huruf kapitalnya. Salah satu huruf saja, program nggak bakal jalan.
 > 
-💡 Buat Kaum Copy-Paste
+
+## 💡 Buat Kaum Copy-Paste
 Hei kamu, iya kamu! 😂
 Boleh banget copy code ini, TAPI jangan cuma di-paste doang terus dikumpul.
  * Ubah isinya: Ganti merk sepatunya, ganti jumlah slotnya.
  * Rusak kodenya: Coba bikin error biar kamu tau kenapa dia error.
  * Experiment: Coba ganti looping-nya pakai while atau do-while.
 Belajar coding itu paling efektif pas lagi benerin error!
-🤝 Dukung Repo Ini (Fork & Star)
+
+## 🤝 Dukung Repo Ini (Fork & Star)
 Bantu biar repo ini makin rame dan bermanfaat buat yang lain ya!
-⭐ Star (Kasih Bintang)
+
+## ⭐ Star (Kasih Bintang)
 Klik tombol Star di pojok kanan atas halaman ini. Ini tandanya kamu nyimpen repo ini di daftar favorit dan menghargai karya authornya.
-🍴 Fork (Ambil Salinan)
+
+## 🍴 Fork (Ambil Salinan)
 Klik tombol Fork di pojok kanan atas.
 Ini gunanya buat menduplikasi repo ini ke akun GitHub kamu sendiri. Jadi kamu bebas mau ngacak-ngacak kodenya di akun kamu tanpa merusak kode asli di sini.
-📚 Sumber Belajar Tambahan
+
+## 📚 Sumber Belajar Tambahan
 Mau belajar Java dari nol banget? Cek link ini:
  * W3Schools Java (Paling enak buat pemula)
  * GeeksforGeeks Java (Lebih mendalam)
  * Dokumentasi Resmi Oracle (Kitab suci Java)
-Author:
+
+# Author:
 Code with ❤️ by Fitra Ajax
 
