@@ -142,7 +142,7 @@ Masih kurang? Cek kitab suci programmer ini:
 
 
                                         Code with ❤️ by **Fitra Ajax**
-
+-----
 
 
 ```
